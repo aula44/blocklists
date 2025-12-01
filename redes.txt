@@ -4,7 +4,6 @@ pixabay.com
 secretai.io
 thesecretai.com
 www.secretai.in
-maps.google.com
 www.chatgbt.plus
 www.aichatting.net
 aichatting.net
@@ -37,7 +36,6 @@ meta.ai
 grok.com
 deepseek.com
 chat.openai.com
-gemini.google.com
 copilot.microsoft.com
 perplexity.ai
 midjourney.com
@@ -534,8 +532,6 @@ playlist.com
 plime.com
 plugim.com
 plurk.com
-plus.google.com
-plusone.google.com
 pnn.com
 po.st
 polfejs.net
