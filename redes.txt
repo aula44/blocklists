@@ -1,4 +1,13 @@
 chatgpt.com
+gemini.google.com
+deepai.org
+www.blackbox.ai
+askaichat.app
+copilot.cloud.microsoft
+z.ai
+chat.z.ai
+hix.ai
+hixai.com
 botonsonido.com
 pixabay.com
 secretai.io
