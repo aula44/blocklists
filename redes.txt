@@ -281,7 +281,6 @@ aifactorysolution.com
 seaart.ai
 rizz.ai
 uchat.ai
-gemini.google.com
 deepai.org
 www.blackbox.ai
 askaichat.app
