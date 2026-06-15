@@ -1,7 +1,9 @@
 bit.ly
 www.bit.ly
+chatgpt.com
 openai.com
 chat.openai.com
+gemini.google.com
 platform.openai.com
 openai.ai
 openai.studio
@@ -19,6 +21,9 @@ bard.google.com
 bard.ai
 bardapi.ai
 google.com
+googlecloud.com
+googlecloud.dialogflow
+dialogflow.cloud.google.com
 duck.ai
 perplexity.ai
 perplexitysearch.ai
@@ -44,6 +49,8 @@ b.ai
 iask.ai
 phind.com
 gpt4all.io
+deepseek.com
+chat.deepseek.com
 heypi.com
 pi.heypi.com
 poe.com
@@ -196,6 +203,8 @@ reply.ai
 verify.ai
 synthesia.io
 phoenix.ai
+deepgram.com
+deepgram.ai
 voiceflow.com
 voiceflow.ai
 avai.io
@@ -274,9 +283,10 @@ aifactorysolution.com
 seaart.ai
 rizz.ai
 uchat.ai
+deepai.org
 www.blackbox.ai
 askaichat.app
-copilot.cloud.Microslop
+copilot.cloud.microsoft
 z.ai
 chat.z.ai
 hix.ai
@@ -316,6 +326,7 @@ chatespanolaigratis.com
 gratis-gpt.chat
 meta.ai
 grok.com
+deepseek.com
 chat.openai.com
 copilot.microsoft.com
 perplexity.ai
