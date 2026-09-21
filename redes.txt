@@ -20,7 +20,6 @@ claudeapi.ai
 bard.google.com
 bard.ai
 bardapi.ai
-google.com
 googlecloud.com
 googlecloud.dialogflow
 dialogflow.cloud.google.com
